@@ -4,7 +4,7 @@ This Car Rent CRUD Application is made as my final project in the first module o
 In the application, for the inventory, I have 7 columns to represent the category. The first category is car code which will be the primary key for each car and will act as the main input in all main features. The rest of the columns are car brand, car name, car manufacture year, car capacity, car rental price/day, and car availability day. All the data will be stored in a list inside a list data types. 
 
 The features that are in this application are:
-1. Read: In the read features it will be divided into two options. The first one is to show all the stocks available. The second one is to show only one stock based      on the inputted car code
+1. Read: In the read features it will be divided into two options. The first one is to show all the stocks available. The second one is to show the stock based      on the inputted car code
 2. Create: In the create feature is to add stock to the inventory. The rule that I set is the car code must be unique for every car.
 3. Update: In the update feature you can update each stock bases on the car code that you have inputted. You can change all the categories including the unique car code itself.
 4. Delete: In the delete feature you can delete inventory one by one based on the unique car code that you inputted
