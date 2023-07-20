@@ -642,7 +642,6 @@ def rent_car(day_name):
                                 print("The Data You're Looking for Does Not Exist")
                                 continue
                         else:
-                                # print(choosen_car)
                                 print_one(choosen_car)
                                 rent_proceed(choosen_car,origin_idx)
                         break
